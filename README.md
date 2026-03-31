@@ -1,8 +1,8 @@
 # Open Source Audit Project – Python
 
 ## Student Details
-Name: ["Bongu Rishi"]  
-Registration Number: [24MIM10056]  
+Name: ["Seema Yadav"]  
+Registration Number: [24MIM10196]  
 Course: Open Source Software  
 
 ## Chosen Software
